@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
-<h3 align="center">A passionate frontend developer from Austin Texas</h3>
+<h3 align="center">A passionate Windows desktop application developer, and problem sleuth from Austin Texas</h3>
 
 - 🔭 I’m currently working on [SydneyQT BingChat EdgeGPT bot](https://github.com/juzeon/SydneyQt/tree/master)
 
