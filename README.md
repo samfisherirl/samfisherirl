@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Converting AHKv1 scripts to newly released v2](https://github.com/samfisherirl/Easy-Auto-GUI-for-AHK-v2)
 
-- 📫 How to reach me **sashaatx@gmail.com**
+- 📫 How to reach me **samfisherirl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
