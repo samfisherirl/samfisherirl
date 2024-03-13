@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate Windows desktop application developer from Austin Texas</h3>
 
-- 🔭 I’m currently working on [SydneyQT BingChat EdgeGPT bot](https://github.com/juzeon/SydneyQt/tree/master)
+- 🔭 I’m currently working on [Sxweet_Scraper_GUI](https://github.com/samfisherirl/Sxweet_Scraper_GUI)
 
 - 🌱 I’m currently learning **https://huggingface.co/shailja/GPTJ_355M_Code**
 
